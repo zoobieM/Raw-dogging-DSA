@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0011-container-with-most-water) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0012-integer-to-roman) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
 |  |
 | ------- |
@@ -62,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0010-regular-expression-matching) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0011-container-with-most-water) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
