@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0013-roman-to-integer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Trie
 |  |
 | ------- |
