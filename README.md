@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0037-sudoku-solver) |
 | [1260-shift-2d-grid](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0037-sudoku-solver) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0037-sudoku-solver) |
 ## Combinatorics
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0037-sudoku-solver) |
 | [1260-shift-2d-grid](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
