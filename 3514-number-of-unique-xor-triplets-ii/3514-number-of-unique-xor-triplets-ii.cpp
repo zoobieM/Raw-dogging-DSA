@@ -6,20 +6,14 @@ public:
         vector<bool> pairXor(MAX_XOR, false);
         vector<bool> tripletXor(MAX_XOR, false);
 
-        int n = nums.size();
-
-        // Store all possible XOR values of two elements.
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                pairXor[nums[i] ^ nums[j]] = true;
+        for (int a : nums) {
+            for (int b : nums) {
+                pairXor[a ^ b] = true;
             }
         }
 
-        // Combine every possible pair XOR with a third element.
         for (int value = 0; value < MAX_XOR; value++) {
-            if (!pairXor[value]) {
-                continue;
-            }
+            if (!pairXor[value]) continue;
 
             for (int num : nums) {
                 tripletXor[value ^ num] = true;
@@ -29,9 +23,7 @@ public:
         int answer = 0;
 
         for (bool exists : tripletXor) {
-            if (exists) {
-                answer++;
-            }
+            if (exists) answer++;
         }
 
         return answer;
