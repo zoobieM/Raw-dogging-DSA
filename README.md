@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0040-combination-sum-ii) |
 | [1260-shift-2d-grid](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/zoobieM/Raw-dogging-DSA/tree/master/0040-combination-sum-ii) |
 ## Combinatorics
 |  |
 | ------- |
